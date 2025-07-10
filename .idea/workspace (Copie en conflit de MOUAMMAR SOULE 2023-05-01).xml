@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7065027-8d37-4124-90fc-60d17cc36d85" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\wamp64\bin\php\php8.2.0\php.exe" />
+  <component name="ProjectId" id="2Nm5Ck6O1wVkfmkblOv2ppFbuj7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/GUEYE ABDOUL/Dropbox/Projet_Web_3&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ETUDES_SECONDAIRES\CM_TP_L2_INFO\Projet_Web_3\projet\" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7065027-8d37-4124-90fc-60d17cc36d85" name="Changes" comment="" />
+      <created>1680256291627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680256291627</updated>
+      <workItem from="1680256292840" duration="1377000" />
+      <workItem from="1680265708618" duration="9020000" />
+      <workItem from="1680274049642" duration="2151000" />
+      <workItem from="1680278591622" duration="3584000" />
+      <workItem from="1680350603834" duration="2555000" />
+      <workItem from="1680515649556" duration="5403000" />
+      <workItem from="1680561723561" duration="2737000" />
+      <workItem from="1680597789290" duration="2654000" />
+      <workItem from="1680696947628" duration="17426000" />
+      <workItem from="1680849594206" duration="31175000" />
+      <workItem from="1681370741542" duration="6461000" />
+      <workItem from="1681381979154" duration="1586000" />
+      <workItem from="1681389464299" duration="16444000" />
+      <workItem from="1681453988385" duration="23155000" />
+      <workItem from="1681483255971" duration="892000" />
+      <workItem from="1681484237066" duration="1870000" />
+      <workItem from="1681739653176" duration="16570000" />
+      <workItem from="1682089836988" duration="25287000" />
+      <workItem from="1682425689136" duration="1846000" />
+      <workItem from="1682451006428" duration="1425000" />
+      <workItem from="1682872006005" duration="11638000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/projet/class/recipe/RecipeDB.php</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
