@@ -30,7 +30,7 @@ namespace recipe;
 
         <?php }
 
-        // verification du client s'il est bien logger
+        // verification du client s'il est bien logger 
         public function checkLogin($user, $pwd):array{
                 $tab = [
                 'access'=>false,
@@ -43,7 +43,7 @@ namespace recipe;
 
             } else if(empty($pwd)){
                 $tab['error'] ="password is empty";
-                //echo '<div> class="msg">'.$tab['error'].'</div>';
+                
 
             }
             else if($user == $this->username && $pwd == $this->password){

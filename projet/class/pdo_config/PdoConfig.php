@@ -21,11 +21,6 @@ class PdoConfig
         $this->db_user = $db_user ;
         $this->db_pwd = $db_pwd ;
 
-        //$dsn = 'postgreSQL:dbname=' . $this->db_name . ';host='. $this->db_host. ';port=' . $this->db_port;
-        
-       // $dsn = 'pgsql:dbname=' . $this->db_name . ';host=' . $this->db_host . ';port=' . $this->db_port;
-
-        // Code nouveau
         // Correction du DSN pour MySQL avec WAMP
         $dsn = "mysql:host=" . $this->db_host . ";dbname=" . $this->db_name . ";charset=utf8";
         
